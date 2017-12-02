@@ -1,4 +1,5 @@
 {
+    "server": "127.0.0.1",
     "server_port": 8388,
     "password": "CHANGEME!!123",
     "method": "aes-256-cfb",
